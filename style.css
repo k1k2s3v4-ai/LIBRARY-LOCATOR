@@ -1,0 +1,17 @@
+body{
+    font-family: "Algerian", sans-serif;
+    text-align: center;
+    background-image: url(https://w0.peakpx.com/wallpaper/495/70/HD-wallpaper-faded-library-illustration-pencil-fading-away.jpg);
+
+}
+
+button:hover{
+    background-color: bisque;
+}
+
+#map{
+    width: 90%;
+    height: 500px;
+    margin: 20px auto;
+    border: 2px solid black;
+}
